@@ -1,0 +1,5 @@
+root: ./
+title: 'Hello Word'
+description: ''
+structure:
+    readme: ./README.md
