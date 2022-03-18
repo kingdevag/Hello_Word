@@ -1,0 +1,8 @@
+setUser
+getFile
+AdminUser
+text
+cls
+clear
+close
+info

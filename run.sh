@@ -1,1 +1,1 @@
-pipenv run python src/launcher.py
+python ShieldBraker.py

@@ -6,6 +6,14 @@ name = "pypi"
 [packages]
 flask = "*"
 colorama = "*"
+certifi = "*"
+pysocks = "*"
+requests = "*"
+stem = "*"
+torrequest = "*"
+requests-futures = "*"
+python-dotenv = "*"
+folium = "*"
 
 [dev-packages]
 
